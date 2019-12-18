@@ -171,7 +171,7 @@ API_KEY = None
 
 chart_studio.tools.set_credentials_file(username=USERNAME, api_key=API_KEY)
 
-sizes = [100, 1000, 3000, 5000, 7000, 10000, 20000, 50000]
+sizes = [100, 2000, 3000, 6000, 7000, 10000, 30000, 60000]
 
 data = []
 for r in results:
